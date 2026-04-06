@@ -13,5 +13,4 @@ Ch13-multiple-lab.ipynb
 data/*
 *.pdf
 example.db
-.DS_Storegridsearch_results.pkl
-gridsearch_results.pkl
+.DS_Store
